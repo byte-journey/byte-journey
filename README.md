@@ -2,9 +2,9 @@
 
 # Hi there, I'm **Gideon**  
 
-![Profile Views](https://komarev.com/ghpvc?id=byte-journey&label=Profile%20Views&color=0e75b6&style=flat-square&labelColor=AEF900)
+<!-- ![Profile Views](https://komarev.com/ghpvc?id=byte-journey&label=Profile%20Views&color=0e75b6&style=flat-square&labelColor=AEF900) -->
 
-<br/>
+---
 
 A **full-stack developer & tech enthusiast** building scalable web apps with Django, React, and modern tools. Passionate about clean code, user-centric design, and turning ideas into live products. Currently shipping e-commerce sites, dashboards, and IoT integrations. Always learning, collaborating, and solving real-world problems.
 
