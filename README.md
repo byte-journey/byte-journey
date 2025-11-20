@@ -48,7 +48,7 @@ A **full-stack developer & tech enthusiast** building scalable web apps with Dja
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>  
 
 ### Tools & DevOps
-<div display="flex">
+<div display="flex-box">
   
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -58,7 +58,7 @@ A **full-stack developer & tech enthusiast** building scalable web apps with Dja
 
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=byte-journey&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=ffffff)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byte-journey&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=ffffff&hide=html,css,jupyter%20notebook,markdown) 
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byte-journey&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=AEF900&text_color=ffffff&include_all_commits=true) -->  
 
