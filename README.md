@@ -72,6 +72,8 @@ A **full-stack developer & tech enthusiast** building scalable web apps with Dja
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byte-journey&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=AEF900&text_color=ffffff&include_all_commits=true) -->  
 
+<br/><br/>
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=byte-journey&theme=radical&hide_border=true&background=0d1117&stroke=AEF900&ring=AEF900&fire=AEF900&currStreakLabel=AEF900)  
 
 ---
