@@ -2,7 +2,7 @@
 
 # Hi there, I'm **Gideon**  
 
-![Profile Views](https://github-profile-summary-cards.vercel.app/api/cards/profile-details/profile?name=byte-journey&theme=github_dark&bg_color=0d1117&title_color=AEF900&text_color=ffffff&border_color=0d1117)
+<!-- ![Profile Views](https://github-profile-summary-cards.vercel.app/api/cards/profile-details/profile?name=byte-journey&theme=github_dark&bg_color=0d1117&title_color=AEF900&text_color=ffffff&border_color=0d1117) -->
 
 <br/>
 
@@ -12,13 +12,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=700&lines=Django+%7C+React;Real-time+Dashboards+%7C+E-commerce+%7C+Mobile+Apps;Kotlin+%7C+C%2B%2B+%7C+Firebase;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 
-</div>
-
 ---
 
 ## Tech Stack & Tools
-
-<div align="center">
 
 ### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -55,20 +51,12 @@
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 <img src="https://img.shields.io/badge/PythonAnywhere-2A475E?style=for-the-badge&logo=pythonanywhere&logoColor=white"/>
 
-</div>
-
 <br/>
-
-<div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byte-journey&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=ffffff&hide=html,css,jupyter%20notebook,markdown)
 
 <br/><br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byte-journey&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=AEF900&text_color=ffffff&include_all_commits=true)
-
-<br/><br/>
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byte-journey&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=AEF900&text_color=ffffff&include_all_commits=true) -->
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=byte-journey&theme=radical&hide_border=true&background=0d1117&stroke=AEF900&ring=AEF900&fire=AEF900&currStreakLabel=AEF900)
-
-</div>
