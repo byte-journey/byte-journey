@@ -4,8 +4,6 @@
 
 <!-- ![Profile Views](https://komarev.com/ghpvc?id=byte-journey&label=Profile%20Views&color=0e75b6&style=flat-square&labelColor=AEF900) -->
 
----
-
 A **full-stack developer & tech enthusiast** building scalable web apps with Django, React, and modern tools. Passionate about clean code, user-centric design, and turning ideas into live products. Currently shipping e-commerce sites, dashboards, and IoT integrations. Always learning, collaborating, and solving real-world problems.
 
 <br/>
@@ -13,8 +11,6 @@ A **full-stack developer & tech enthusiast** building scalable web apps with Dja
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=700&lines=Django+%7C+FastAPI+%7C+Flutter+%7C+React;Real-time+Dashboards+%7C+E-commerce+%7C+Mobile+Apps;Kotlin+%7C+C%2B%2B+%7C+Firebase;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 
 </div>
-
----
 
 ## Tech Stack & Tools  
 
@@ -39,6 +35,7 @@ A **full-stack developer & tech enthusiast** building scalable web apps with Dja
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/pymodbus-003366?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
