@@ -2,7 +2,7 @@
 
 # Hi there, I'm **Gideon**  
 
-![Profile Views](https://komarev.com/ghpvc?id=byte-journey&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Profile Views](https://github-profile-summary-cards.vercel.app/api/cards/profile-details/profile?name=byte-journey&theme=github_dark&bg_color=0d1117&title_color=AEF900&text_color=ffffff&border_color=0d1117)
 
 <br/>
 
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=byte-journey&layout=compact&theme=radical&hide_border=true&hide=html,css,jupyter%20notebook)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byte-journey&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=ffffff&hide=html,css,jupyter%20notebook,markdown)
 
 <br/><br/>
 
