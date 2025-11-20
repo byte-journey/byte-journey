@@ -66,6 +66,8 @@ A **full-stack developer & tech enthusiast** building scalable web apps with Dja
 
 </div>
 
+<br/><br/>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byte-journey&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=ffffff&hide=html,css,jupyter%20notebook,markdown) 
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byte-journey&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=AEF900&text_color=ffffff&include_all_commits=true) -->  
