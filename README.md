@@ -48,15 +48,19 @@ A **full-stack developer & tech enthusiast** building scalable web apps with Dja
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>  
 
 ### Tools & DevOps
+<div display="flex">
+  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 <img src="https://img.shields.io/badge/PythonAnywhere-2A475E?style=for-the-badge&logo=pythonanywhere&logoColor=white"/>  
 
+</div>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=byte-journey&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=ffffff)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byte-journey&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=AEF900&text_color=ffffff&include_all_commits=true)  
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byte-journey&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=AEF900&text_color=ffffff&include_all_commits=true) -->  
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=byte-journey&theme=radical&hide_border=true&background=0d1117&stroke=AEF900&ring=AEF900&fire=AEF900&currStreakLabel=AEF900)  
 
